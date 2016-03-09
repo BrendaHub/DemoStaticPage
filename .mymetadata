@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="DemoStaticPage"
+  id="myeclipse.1441199540363"
+  context-root="/DemoStaticPage"
+  j2ee-spec="5.0"
+  archive="DemoStaticPage.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
